@@ -32,3 +32,5 @@ find . -type f \
 done
 
 echo "]" >> "$output_file"
+
+echo "Content saved to $output_file"
